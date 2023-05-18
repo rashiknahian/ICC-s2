@@ -1,0 +1,28 @@
+.logo img{
+    border: 2px solid blue;
+    border-radius: 15%;
+    width: 200px;
+    height: 100px;
+}
+.nav ul {
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.nav ul li {
+    display: inline;
+    padding: 15px;
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    
+}
+.video{
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.footer{
+    background-color: aqua;
+}
