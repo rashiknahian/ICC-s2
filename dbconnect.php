@@ -2,7 +2,7 @@
 
     $DBhost = "localhost";
     $DBuser = "root";
-    $DBPass = "";
+    $DBPass = "root";
     $DBname = "contactform";
 
     $DBConnect = new MySQLi($DBhost,$DBuser,$DBPass,$DBname);
